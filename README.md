@@ -2,7 +2,7 @@
 * Ferramentas e ambientes de desenvolvimento: 
   * Python para análise de dados (NumPy) - Síncrono 
   * Python para análise de dados (Pandas) - Assíncrono
-  * Python para visualização de dados (Mathplotli) - Síncrono
+  * Python para visualização de dados (Mathplotlib) - Síncrono
   * Python para visualização de dados (Seaborn) - Assíncrono.
 
 ## Tarefas
