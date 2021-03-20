@@ -7,5 +7,5 @@
 
 ## Tarefas
 * **Em cada seção existe um caderno de exercícios que deverão ser resolvidos até as datas estipuladas conforme o cronograma:**
-  * **05/09:** 12-Exercicios.ipynb, 22-NumpyExercises.ipynb e 32-MatplotlibExercises.ipynb 
+  * **Exercícios Python** 12-Exercicios.ipynb, 22-NumpyExercises.ipynb e 32-MatplotlibExercises.ipynb 
 
