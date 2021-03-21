@@ -2,12 +2,10 @@ from random import *
 class Pergunta:
 	def __init__(self):
 		self.level = [
-		['O seu parente é um homem?','homem'],
-		['O seu parente é filho do teu irmão ou irmã?','filhoirmao'],
-		['O seu parente é filho(a) do seu pai ou mãe?','filhopaimae'],
-		['O seu parente é filho(a) de sua tia ou tio?','filhotioa'],
-		['O seu parente é filho(a) de seu primo ou prima?', 'filhoprimoa'],
-		['O seu parente é filho da seu avô ou avó?','filhoavoa'],		
+		['Seu Pet está agitado?','agitado'],
+		['O seu Pet está comendo bem?','alimentado'],
+		['O ambiente é adequado?','ambiente_adequado'],
+		['O seu Pet fez atividade física?','se_movimenta'],		
 		]
 
 	def texto(self):
